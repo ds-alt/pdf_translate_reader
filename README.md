@@ -25,4 +25,4 @@ The installer includes the required runtime, so users do not need to install Jav
 
 Translation requires internet access. PDF reading, text selection, search, theme preferences, recent files, and local history work inside the desktop app.
 
-Created by **Dusho Stankovski**.
+Created by **Dushko Stankovski**.
