@@ -1,5 +1,7 @@
 # PDF Translate Reader
 
+![PDF Translate Reader preview](docs/assets/pdf-translate-reader-promo.png)
+
 PDF Translate Reader is a modern Windows desktop app for reading PDF files, selecting text, and translating the selected content instantly.
 
 ## Download
